@@ -3,18 +3,18 @@
 A curated **and opinionated** list of ideas addressed to managers for onboarding software engineering roles in your company
 
 - [awesome-onboarding](#awesome-onboarding)
-  - [Communication](#communication)
-  - [Mentor](#mentor)
-  - [The first day](#the-first-day)
-  - [The first 2 weeks](#the-first-2-weeks)
+  - [📖 Communication](##user-content-communication)
+  - [👩‍🚀 Mentor](##user-content-mentor)
+  - [🌱 The first day](##user-content-the-first-day)
+  - [🌅 The first 2 weeks](##user-content-the-first-2-weeks)
 
-## Communication
+## 📖 Communication
 
 - Communicate with the new hire before their start date
 - If possible for both of you meet them
 - make them meet the team and join team mates during informal events (e.g. afterworks)
 
-## Mentor
+## 👩‍🚀 Mentor
 
 - Make sure they have a mentor that will bring them a lot of things
 - The mentor is like your big brother in the company, he knows how to make you meet people, how to solve your new joiners problems, how to guide you in what is a new world for you
@@ -24,7 +24,7 @@ A curated **and opinionated** list of ideas addressed to managers for onboarding
   - what will I do next week to continue my progress on blabla...
   - ...
 
-## The first day
+## 🌱 The first day
 
 - Make their first day memorable
   - at Synthesio we usually have breakfast every morning but it's good to ensure we get one for this specific day. So at least this is the role of the manager of the new hire to bring it if needed
@@ -35,7 +35,7 @@ A curated **and opinionated** list of ideas addressed to managers for onboarding
   - Below an example of what I wrote when joining Synthesio:
   - ![My blablabla when I joined Synthesio](https://github.com/julplee/awesome-onboarding/blob/master/onboarding-company-wide-welcome-message.png "My blablabla when I joined Synthesio")
 
-## The first 2 weeks
+## 🌅 The first 2 weeks
 
 - Write a precise schedule for their first days: 2 weeks schedule is a good period from our experience
   - Below an example of an extract of what we prepare when someone joins at Synthesio
