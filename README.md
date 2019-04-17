@@ -3,10 +3,10 @@
 A curated **and opinionated** list of ideas addressed to managers for onboarding software engineering roles in your company
 
 - [awesome-onboarding](#awesome-onboarding)
-  - [📖 Communication](##user-content-communication)
-  - [👩‍🚀 Mentor](##user-content-mentor)
-  - [🌱 The first day](##user-content-the-first-day)
-  - [🌅 The first 2 weeks](##user-content-the-first-2-weeks)
+  - [📖 Communication](#user-content-communication)
+  - [👩‍🚀 Mentor](#user-content-mentor)
+  - [🌱 The first day](#user-content-the-first-day)
+  - [🌅 The first 2 weeks](#user-content-the-first-2-weeks)
 
 ## 📖 Communication
 
